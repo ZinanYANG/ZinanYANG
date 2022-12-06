@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZinanYANG
+- 👋 Hi, I’m @Zinan
 - 👀 I’m interested in different sde projects and punching in leetcode questions.
 - 🌱 I’m currently learning js html and css
 - 💞️ I’m looking to land an internship in the coming summer quarter. 
